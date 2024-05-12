@@ -26,7 +26,8 @@ To run the Tokopedia React Clone locally, follow these steps:
 Clone the project. Make sure that you clone the **master** branch
 
 ```
-  git clone https://github.com/rizkyyusfian/tokopediaplay-react.git
+  git clone
+https://github.com/Raffyshira/Tokopedia-clone.git
 ```
 
 Go to the project directory
